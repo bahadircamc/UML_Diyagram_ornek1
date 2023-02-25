@@ -1,0 +1,2 @@
+# UML_Diyagram_ornek1
+Universite_Yonetim_Sistemi
